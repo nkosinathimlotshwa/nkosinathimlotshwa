@@ -1,7 +1,7 @@
 # Hi, I'm Nkosinathi 👋🏾
 
 ## 🙋🏾‍♂️ About Me
-I’m a self-taught data enthusiast learning SQL, data engineering, and analytics through hands-on projects.  
+I’m a data enthusiast learning SQL, data engineering, and analytics through hands-on projects.  
 I focus on building strong fundamentals and understanding how data systems work end-to-end.
 
 ## 📚 What I’m Currently Learning
